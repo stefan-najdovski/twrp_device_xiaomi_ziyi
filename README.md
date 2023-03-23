@@ -1,6 +1,6 @@
 # Android device tree for Xiaomi ziyi (ziyi)
 
-# Trying to build TWRP RECOVERY 
+# Trying to build TWRP RECOVERY XIAOMI 13 LITE
 
 
 ```
